@@ -5,7 +5,7 @@ The application use Clarifi API for Backend Machine Learning model;
 Front End ===:> React & Tailwind CSS
 Back End ===:> NodeJS & Postgre SQL
 ## Key Features:
-* Fast
+* Fast beacuse made with Vite (React)
 * Fully responsive design been tested on several devices
 * The interface is interactive due to Tailwind be interactive with some meaningfull colors.
 
