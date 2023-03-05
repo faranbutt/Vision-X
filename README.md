@@ -10,7 +10,7 @@ The application use Clarifi API for Backend Machine Learning model;
 * The interface is interactive due to Tailwind be interactive with some meaningfull colors.
 
 ## React App Depoyed:
-https://todoapp-fr2wg4o9p-faranbutt.vercel.app/
+https://vision-x.vercel.app/
 ## To Run/Change this design:
 ```
 git clone https://github.com/faranbutt/Vision-X
