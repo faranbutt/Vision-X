@@ -1,9 +1,9 @@
 This project is a Face Detection App
 This application detects faces when you give link to a certain picture.
 The application use Clarifi API for Backend Machine Learning model;
-
-Front End ===:> React & Tailwind CSS
-Back End ===:> NodeJS & Postgre SQL
+## Technologies used:
+* Front End ===:> React & Tailwind CSS
+* Back End ===:> NodeJS & Postgre SQL
 ## Key Features:
 * Fast beacuse made with Vite (React)
 * Fully responsive design been tested on several devices
