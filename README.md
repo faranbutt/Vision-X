@@ -12,14 +12,13 @@ Back End ===:> NodeJS & Postgre SQL
 ## React App Depoyed:
 https://todoapp-fr2wg4o9p-faranbutt.vercel.app/
 ## To Run/Change this design:
-#Follow Steps:
 ```
 git clone https://github.com/faranbutt/Vision-X
 cd Vision-X
 npm install
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:5173/) with your browser to see the result.
+Open [http://localhost:5173](http://localhost:5173/) with your browser to see the result.
 
 You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
 
