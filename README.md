@@ -1,4 +1,4 @@
-This project is a Face Detection App
+## Full Stack Face Detection App
 This application detects faces when you give link to a certain picture.
 The application use Clarifi API for Backend Machine Learning model;
 ## Technologies used:
