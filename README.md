@@ -1,7 +1,7 @@
 ## Vision-X (Full Stack Face Detection App)
-This application detects faces when you give link to a certain picture.
-The application use Clarifi API to connect with face detection machine learning model.
-The application uses RESTApi written with NodeJS,Express and Helmet to storre users on to database.
+* This application detects faces when you give link to a certain picture.
+* The application use Clarifi API to connect with face detection machine learning model.
+* The application uses RESTApi written with NodeJS,Express and Helmet to storre users on to database.
 ## Technologies used:
 * Front End ===:> React & Tailwind CSS
 * Back End ===:> NodeJS & Postgre SQL
