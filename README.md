@@ -13,10 +13,10 @@
 * Fully responsive design been tested on several devices
 * The interface is interactive due to Tailwind be interactive with some meaningfull colors.
 
-## FrontEnd Deployed on Vercel:
+## Frontend Deployed on Vercel:
 https://vision-x.vercel.app/
 
-## BackEnd and Database Deplioyed on Heroku:
+## Backend and Database Deplioyed on Heroku:
 https://murmuring-brook-81935.herokuapp.com/
 ## To Run/Change this design:
 ```
